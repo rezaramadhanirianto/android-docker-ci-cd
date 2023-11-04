@@ -27,7 +27,7 @@ A small docker image for building Android apps. Here's link for [Dockerhub](http
 
 
 ### Tags
-Coming Soon
+- <code>:jdk11-sdk33</code>
 
 ## How to run in local computer
 ```docker
