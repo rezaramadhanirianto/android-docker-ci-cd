@@ -4,7 +4,7 @@
     <img src="https://github.com/rezaramadhanirianto/android-docker-ci-cd/assets/46983732/d0100a65-2a58-4265-9002-d268b2b6f8e3">
 </p>
 
-A small docker image for building Android apps. Here's link for [Dockerhub](https://hub.docker.com/r/rezaramadhanirianto/android-docker-ci-cd)
+A small docker image for building Android apps. Here's link for [Dockerhub](https://hub.docker.com/r/rezaramadhanirianto/android-ci-cd)
 
 ## What's inside
 - Ubuntu 20.0.4
