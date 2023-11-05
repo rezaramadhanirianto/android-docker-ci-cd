@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hub.docker.com/r/rezaramadhanirianto/android-ci-cd)"><img alt="DockerHub Link" src="https://img.shields.io/badge/image-dockerhub-%23066da5?logo=docker&logoColor=white"/></a>
+  <a href="https://hub.docker.com/r/rezaramadhanirianto/android-ci-cd"><img alt="DockerHub Link" src="https://img.shields.io/badge/image-dockerhub-%23066da5?logo=docker&logoColor=white"/></a>
   <a href="https://github.com/rezaramadhanirianto"><img alt="github link" src="https://img.shields.io/badge/follow%20me-github-green?logo=github"/></a>
 </p>
 
